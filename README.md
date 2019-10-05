@@ -1,4 +1,4 @@
-# Projeto-HTML-CSS-JS
+# Projeto-HTML, Site com Tabelas.
 Primeiro projeto em desenvolvimento web
 
 Estou aprendendo sobre desenvolvimento web, e no curso fazia parte fazer um site básico, para uma universidade ficticia usando apenas table
